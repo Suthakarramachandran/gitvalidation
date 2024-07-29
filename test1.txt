@@ -1,1 +1,1 @@
-gitvalidation text1.txt  
+gitvalidation text1.txt  changed
